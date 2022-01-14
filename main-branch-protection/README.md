@@ -1,4 +1,4 @@
-# main branch protection
+# `main` branch protection
 
 ## protect-main-branch.sh
 * Shell script to enable branch protection on the `main` branch
